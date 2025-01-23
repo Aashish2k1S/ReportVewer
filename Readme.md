@@ -13,6 +13,17 @@ This is a Android app to display user data from [Quest Global Solutions API](htt
 - Android 24 or higher
 - Internet connection
 
+## Tech Stack
+
+- **Programming Language**: Kotlin
+- **IDE**: Android Studio
+- **Architecture**: MVVM (Model-View-ViewModel)
+- **Networking**: Retrofit
+- **Dependency Injection**: Dagger-Hilt
+- **UI Components**: RecyclerView, ViewModel, LiveData
+- **Database**: Room
+- **Testing**: JUnit, Espresso
+
 ## Installation
 
 - Clone the repository
