@@ -19,6 +19,8 @@ This is a Android app to display user data from [Quest Global Solutions API](htt
 - Open the project in Android Studio
 - Run the app on an emulator or a physical device
 
+- You can also install the apk directly from here [Quert Erp](Screenshot/Quest%20ERP%20176.apk)
+
 ## Configuration
 
 - The API endpoint is configured in the `ApiInterface.kt` file
